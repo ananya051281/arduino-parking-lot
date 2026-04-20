@@ -58,7 +58,7 @@ It detects vehicle entry and exit using IR sensors, updates available parking sl
 
 ## 🔌 Circuit Diagram
 
-![Circuit Diagram](circuit_diagram.png)
+![Circuit Diagram](circuit-diagram.png)
 
 ---
 
